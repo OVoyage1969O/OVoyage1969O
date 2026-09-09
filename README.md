@@ -3,8 +3,15 @@
 # 坂の上のお屋敷には，魔女が住んでいる
 
 ### Voyage1969
-  <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&style=flat-square&label=访问量" alt="Profile Views" />
+  
 </div>
+<div align="center">
+    <a href="[https://www.youtube.com/@chenorange2219](https://www.youtube.com/@%E8%93%AC%E8%8E%B1%E5%B1%B1%E8%BE%89%E5%A4%9C-p5p)"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://space.bilibili.com/196192573/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.zhihu.com/people//mou-ke-xue-de-dian-pi-qia-qiu/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 
 ---
 
