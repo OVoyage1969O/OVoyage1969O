@@ -63,30 +63,6 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OVoyage1969O&show_icons=true&hide_border=true&theme=transparent&locale=cn" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVoyage1969O&layout=compact&hide_border=true&theme=transparent&locale=cn" />
-
-</div>
-
----
-
-## 🧩 最近在做什么
-
-- 📖 系统学习数据结构、算法与机器学习
-- 🧪 折腾 Linux 桌面环境与工作流
-- 🛠 持续完善个人博客和 GitHub 项目
-- 📝 整理数学、算法与机器学习学习笔记
-- 🌱 学习新的技术栈，并努力不把环境配到无法启动
-
----
-
-## 🌐 联系与主页
-
 ## 🌐 联系与主页
 
 <p align="center">
