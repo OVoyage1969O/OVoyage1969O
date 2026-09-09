@@ -47,35 +47,9 @@
 
 ---
 
-## 📚 当前学习方向
+## 🚀 项目
 
-```text
-数据结构与算法
-├── DFS / BFS
-├── 搜索与图算法
-├── 动态规划
-└── 竞赛算法
-
-机器学习
-├── 线性回归
-├── 概率论与数理统计
-├── 深度学习
-├── NLP
-└── 计算机视觉
-
-开发方向
-├── Astro
-├── TypeScript
-├── Tailwind CSS
-├── GitHub Actions
-└── Linux 桌面与开发环境
-```
-
----
-
-## 🚀 项目与折腾
-
-### 🌌 个人博客
+### 🌌 个人博客——永远邸
 
 基于 **Astro / Firefly** 进行深度魔改的个人博客。
 
@@ -113,21 +87,21 @@
 
 ## 🌐 联系与主页
 
+## 🌐 联系与主页
+
 <p align="center">
   <a href="https://github.com/OVoyage1969O">
     <img src="https://img.shields.io/badge/GitHub-OVoyage1969O-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
 
-<!--
-可以在这里补充个人博客：
-
-<a href="https://你的博客地址">
+  <a href="https://space.bilibili.com/196192573">
+    <img src="https://img.shields.io/badge/Bilibili-我的B站主页-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  
+  <a href="https://ovoyage1969o.github.io/Kaguya/">
   <img src="https://img.shields.io/badge/Blog-个人博客-0A66C2?style=for-the-badge&logo=astro" />
-</a>
-
-也可以继续加入 Bilibili、邮箱等联系方式。
--->
+  </a>
+</p>
 
 ---
 
