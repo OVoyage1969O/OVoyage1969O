@@ -96,16 +96,6 @@ A heavily customized **Astro / Firefly** based personal blog.
 - Obsidian knowledge-base integration
 - GitHub Actions deployment workflow
 
-### 💡 数址码谷
-
-A concept for an all-in-one Computer Science learning platform.
-
-- Online Judge
-- Knowledge Graph
-- RAG-based AI Assistant
-- Course Notes & Collaboration
-- Programming Learning Community
-
 ---
 
 ## 📊 GitHub Stats
