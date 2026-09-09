@@ -1,55 +1,55 @@
 <div align="center">
 
-# 👋 Hi, I'm OVoyage
+# 👋 你好，我是 OVoyage
 
-### Computer Science Student · Developer · Linux Enthusiast
+### 计算机科学学生 · 开发者 · Linux 爱好者
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/OVoyage1969O?style=flat-square&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&style=flat-square&label=访问量" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/OVoyage1969O?style=flat-square&label=关注者" alt="Followers" />
 </p>
 
-> Learning how computers work, building things I actually want to use,  
-> and occasionally breaking Linux in increasingly educational ways.
+> 喜欢折腾计算机，也喜欢把学到的东西真正做成项目。  
+> 偶尔把 Linux 折腾坏，但至少每次都能顺便学点东西。
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 关于我
 
-- 🎓 Computer Science student
-- 💻 Interested in **Algorithms, Machine Learning, Web Development and Linux**
-- 🐧 Daily Linux user, currently exploring **CachyOS / Niri**
-- 🧠 Learning **Data Structures, Algorithms, ML, Deep Learning and NLP**
-- 🌐 Building and maintaining my own **Astro-based personal blog**
-- 📚 Also interested in mathematics, mythology, folklore and occult studies
-- 🎮 ACG / visual novel enthusiast
-- 🌙 Favorite fictional character: **Alice Kuonji / 久远寺有珠**
+- 🎓 计算机科学相关专业学生
+- 💻 目前主要关注 **算法、机器学习、Web 开发与 Linux**
+- 🐧 日常使用 Linux，正在折腾 **CachyOS / Niri**
+- 🧠 正在学习 **数据结构与算法、机器学习、深度学习、NLP、计算机视觉**
+- 🌐 正在维护和魔改自己的 **Astro 个人博客**
+- 📚 对数学、神话、民俗与神秘学也很感兴趣
+- 🎮 喜欢 ACG、Galgame 等作品
+- 🌙 最喜欢的角色是 **久远寺有珠**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 技术栈
 
-### Languages
+### 编程语言
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css" />
 </p>
 
-### Web & Frontend
+### Web 与前端
 
 <p>
   <img src="https://skillicons.dev/icons?i=astro,tailwind,nodejs,npm,pnpm" />
 </p>
 
-### Tools & Environment
+### 开发工具与环境
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,idea,pycharm" />
 </p>
 
-### Currently Learning
+### 正在学习
 
 <p>
   <img src="https://skillicons.dev/icons?i=rust,pytorch" />
@@ -57,70 +57,71 @@
 
 ---
 
-## 📚 Current Focus
+## 📚 当前学习方向
 
 ```text
-Algorithms & Data Structures
+数据结构与算法
 ├── DFS / BFS
-├── Searching & Graph Algorithms
-├── Dynamic Programming
-└── Competitive Programming
+├── 搜索与图算法
+├── 动态规划
+└── 竞赛算法
 
-Machine Learning
-├── Linear Regression
-├── Probability & Statistics
-├── Deep Learning
+机器学习
+├── 线性回归
+├── 概率论与数理统计
+├── 深度学习
 ├── NLP
-└── Computer Vision
+└── 计算机视觉
 
-Development
+开发方向
 ├── Astro
 ├── TypeScript
 ├── Tailwind CSS
 ├── GitHub Actions
-└── Linux Desktop / Workflow
+└── Linux 桌面与开发环境
 ```
 
 ---
 
-## 🚀 Projects
+## 🚀 项目与折腾
 
-### 🌌 Personal Blog
+### 🌌 个人博客
 
-A heavily customized **Astro / Firefly** based personal blog.
+基于 **Astro / Firefly** 进行深度魔改的个人博客。
 
 - Astro + TypeScript
 - Tailwind CSS
-- Waline Comments
+- Waline 评论系统
 - GSAP / ScrollTrigger
-- Obsidian knowledge-base integration
-- GitHub Actions deployment workflow
+- Obsidian 知识库迁移与整合
+- GitHub Actions 自动构建与部署
+- 页面动画与交互效果优化
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 数据
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OVoyage1969O&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OVoyage1969O&show_icons=true&hide_border=true&theme=transparent&locale=cn" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVoyage1969O&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVoyage1969O&layout=compact&hide_border=true&theme=transparent&locale=cn" />
 
 </div>
 
 ---
 
-## 🧩 What I'm Doing Now
+## 🧩 最近在做什么
 
-- 📖 Studying algorithms and machine learning systematically
-- 🧪 Experimenting with Linux desktop environments and workflows
-- 🛠 Improving my personal blog and GitHub projects
-- 📝 Turning study notes into structured knowledge
-- 🌱 Trying new technologies without turning my laptop into a ritual sacrifice
+- 📖 系统学习数据结构、算法与机器学习
+- 🧪 折腾 Linux 桌面环境与工作流
+- 🛠 持续完善个人博客和 GitHub 项目
+- 📝 整理数学、算法与机器学习学习笔记
+- 🌱 学习新的技术栈，并努力不把环境配到无法启动
 
 ---
 
-## 🌐 Find Me
+## 🌐 联系与主页
 
 <p align="center">
   <a href="https://github.com/OVoyage1969O">
@@ -129,13 +130,13 @@ A heavily customized **Astro / Firefly** based personal blog.
 </p>
 
 <!--
-You can add your personal blog here:
+可以在这里补充个人博客：
 
-<a href="https://YOUR-BLOG-URL">
-  <img src="https://img.shields.io/badge/Blog-Visit-0A66C2?style=for-the-badge&logo=astro" />
+<a href="https://你的博客地址">
+  <img src="https://img.shields.io/badge/Blog-个人博客-0A66C2?style=for-the-badge&logo=astro" />
 </a>
 
-You can also add Bilibili / Email / other social links.
+也可以继续加入 Bilibili、邮箱等联系方式。
 -->
 
 ---
@@ -144,6 +145,7 @@ You can also add Bilibili / Email / other social links.
 
 ### 「まだ見ぬ世界へ。」
 
-Thanks for visiting.
+感谢你的访问 ✨
 
 </div>
+
