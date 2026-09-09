@@ -5,7 +5,6 @@
 ### Voyage1969
 <p>
   <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&style=flat-square&label=访问量" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/OVoyage1969O?style=flat-square&label=关注者" alt="Followers" />
 </p>
 </div>
 
