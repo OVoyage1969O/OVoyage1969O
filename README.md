@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=OVoyage1969O" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OVoyage1969O&theme=xcode" /> </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&style=flat-square" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OVoyage1969O&theme=xcode" />
+</div>
 
 <!--
 **OVoyage1969O/OVoyage1969O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
