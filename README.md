@@ -1,31 +1,24 @@
 <div align="center">
 
-# 👋 你好，我是 OVoyage
+# 坂の上のお屋敷には，魔女が住んでいる
 
-### 计算机科学学生 · 开发者 · Linux 爱好者
-
+### Voyage1969
 <p>
   <img src="https://komarev.com/ghpvc/?username=OVoyage1969O&style=flat-square&label=访问量" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/OVoyage1969O?style=flat-square&label=关注者" alt="Followers" />
 </p>
-
-> 喜欢折腾计算机，也喜欢把学到的东西真正做成项目。  
-> 偶尔把 Linux 折腾坏，但至少每次都能顺便学点东西。
-
 </div>
 
 ---
 
 ## 🧑‍💻 关于我
 
-- 🎓 计算机科学相关专业学生
-- 💻 目前主要关注 **算法、机器学习、Web 开发与 Linux**
-- 🐧 日常使用 Linux，正在折腾 **CachyOS / Niri**
-- 🧠 正在学习 **数据结构与算法、机器学习、深度学习、NLP、计算机视觉**
-- 🌐 正在维护和魔改自己的 **Astro 个人博客**
-- 📚 对数学、神话、民俗与神秘学也很感兴趣
-- 🎮 喜欢 ACG、Galgame 等作品
-- 🌙 最喜欢的角色是 **久远寺有珠**
+- 🎓 某石油大学计算机科学相关专业大二生，什么都想学，什么都学不好。 
+- 💻 正在学习 **统计论、机器学习、深度学习、Web 开发与 Linux**
+- 🐧 日常使用 Linux/Windows11 双系统，桌面主 **CachyOS + Niri + Noctalia v5**
+- 🌐 个人博客 **永远邸**
+- 📚 兴趣爱好：神秘学，型月，东方，Gal
+- ❤ **久远寺有珠**
 
 ---
 
